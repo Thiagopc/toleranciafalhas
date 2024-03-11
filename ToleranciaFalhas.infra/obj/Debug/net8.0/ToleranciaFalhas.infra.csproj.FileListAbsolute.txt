@@ -1,0 +1,15 @@
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\bin\Debug\net8.0\ToleranciaFalhas.infra.deps.json
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\bin\Debug\net8.0\ToleranciaFalhas.infra.dll
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\bin\Debug\net8.0\ToleranciaFalhas.infra.pdb
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\bin\Debug\net8.0\ToleranciaFalhas.domain.dll
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\bin\Debug\net8.0\ToleranciaFalhas.domain.pdb
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ToleranciaFalhas.infra.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ToleranciaFalhas.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ToleranciaFalhas.infra.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ToleranciaFalhas.infra.AssemblyInfo.cs
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ToleranciaFalhas.infra.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ToleranciaFalhas.infra.csproj.CopyComplete
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ToleranciaFalhas.infra.dll
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\refint\ToleranciaFalhas.infra.dll
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ToleranciaFalhas.infra.pdb
+C:\Users\thiag\source\repos\ToleranciaFalhas.api\ToleranciaFalhas.infra\obj\Debug\net8.0\ref\ToleranciaFalhas.infra.dll

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "UOg5L0fM0YzvZGeayMzLRoWCsm8a2r0JoTzsZAVy1ko+Kwe6CYsPvHhSXVopn2M71Rhr+bJRKJiW++kewMGLsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\source\\repos\\ToleranciaFalhas.api\\ToleranciaFalhas.infra\\ToleranciaFalhas.infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\awssdk.core\\3.7.302.16\\awssdk.core.3.7.302.16.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\awssdk.sqs\\3.7.300.55\\awssdk.sqs.3.7.300.55.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.2\\microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.2\\microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.2\\npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\polly\\8.3.1\\polly.8.3.1.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\polly.core\\8.3.1\\polly.core.8.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

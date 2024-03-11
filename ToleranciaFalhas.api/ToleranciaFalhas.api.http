@@ -1,0 +1,6 @@
+@ToleranciaFalhas.api_HostAddress = http://localhost:5270
+
+GET {{ToleranciaFalhas.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
